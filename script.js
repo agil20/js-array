@@ -24,8 +24,8 @@ for (let index = 0; index < arrn.length; index++)
  {
 
    let element = arrn[index];
-  
-  arr1.push(element.split("").length )
+
+  arr1.push(element.length)
 
 
    
